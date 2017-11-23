@@ -1,0 +1,9 @@
+[ignore]
+
+[include]
+
+[libs]
+
+[options]
+module.system.node.resolve_dirname=<PROJECT_ROOT>/node_modules
+module.system.node.resolve_dirname=<PROJECT_ROOT>/src
